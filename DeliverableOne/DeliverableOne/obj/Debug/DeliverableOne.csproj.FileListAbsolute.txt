@@ -1,0 +1,7 @@
+C:\Users\joshu_000\source\repos\DeliverableOne\DeliverableOne\bin\Debug\DeliverableOne.exe.config
+C:\Users\joshu_000\source\repos\DeliverableOne\DeliverableOne\bin\Debug\DeliverableOne.exe
+C:\Users\joshu_000\source\repos\DeliverableOne\DeliverableOne\bin\Debug\DeliverableOne.pdb
+C:\Users\joshu_000\source\repos\DeliverableOne\DeliverableOne\obj\Debug\DeliverableOne.csprojAssemblyReference.cache
+C:\Users\joshu_000\source\repos\DeliverableOne\DeliverableOne\obj\Debug\DeliverableOne.csproj.CoreCompileInputs.cache
+C:\Users\joshu_000\source\repos\DeliverableOne\DeliverableOne\obj\Debug\DeliverableOne.exe
+C:\Users\joshu_000\source\repos\DeliverableOne\DeliverableOne\obj\Debug\DeliverableOne.pdb
